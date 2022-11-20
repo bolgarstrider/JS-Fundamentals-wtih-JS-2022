@@ -1,23 +1,3 @@
-// Write a JS program that prints a DNA helix with a length, specified by the user. 
-// The helix has a repeating structure, but the symbol in the chain follows the sequence ATCGTTAGGG. 
-// See the examples for more information.
-// The input comes as a single number. It represents the length of the required helix.
-// The output is the completed structure, printed on the console.
-
-// 10 
-// 1 **AT**
-// 2 *C--G*
-// 3 T----T
-// 4 *A--G*
-
-// 5 **GG**
-// 6 *A--T*
-// 7 C----G
-// 8 *T--T*
-// 9 **AG**
-
-// 10 *G--G*
-
 
 
 function printDNA(num){

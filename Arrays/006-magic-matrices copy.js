@@ -1,10 +1,3 @@
-// Write a function that checks if a given matrix of numbers is magical. A matrix is magical 
-// if the sums of the cells of every row and every column are equal. 
-// Input
-// The input comes as an array of arrays, containing numbers (number 2D matrix). The input numbers will always be positive.
-// Output
-// The output is a Boolean result indicating whether the matrix is magical or not.
-
 
 function magicSquare(input) {
     let isMagic = true;

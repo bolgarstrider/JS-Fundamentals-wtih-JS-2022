@@ -1,4 +1,3 @@
-// Write a program that calculates the difference between the sum of the even and the sum of the odd numbers in an array.
 
 function evenOddSubstruction(numbers) {
     let evenSum = 0;

@@ -1,7 +1,3 @@
-// Write a function to print a chessboard of size n X n. See the example for more information.
-// The input comes as a single number argument n.
-// The output should be returned as a result of your function in the form of a string.
-// works only with odd numbers
 
 function chessBoard(num) {
     let size = Number(num);
